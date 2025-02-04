@@ -1,7 +1,7 @@
 -  Hi, I’m Leandro
 -  I’m interested in technology and its ramifications, mainly software development
--  I’m currently learning: Angular2+, JavaScript, TypeScript, HTML5, CSS3
--  I'm looking for an trainee/internship opportunity in software development, front-end or back-end
+-  I’m currently learning: Java, Spring boot, JPA Hibernate, Data base
+-  I'm looking for an junior opportunity in software development on back-end
 -  linkedin: https://www.linkedin.com/in/leandro-pereira-62aa42197/
 -  E-mail: leandro133ps@gmail.com
 
